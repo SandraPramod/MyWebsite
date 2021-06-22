@@ -1,0 +1,35 @@
+.nav-item{
+    font-family: cursive;
+    font-size: large;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.about{
+    margin-left: 7em;
+    padding: 0.5em;
+    border:5px transparent;
+    border-style: groove;
+    
+ }
+.about #dr1{
+    padding: 1em;
+    box-shadow: 10px 10px 10px lightgrey;
+
+}
+.about #dr2{
+    padding: 1em;
+    box-shadow: 10px 10px 10px lightgrey;
+}
+.about #dr3{
+    padding: 1em;
+    box-shadow: 10px 10px 10px lightgrey;
+}
+#dr1:hover {
+    box-shadow: 10px 10px 10px black;
+  }
+#dr2:hover {
+    box-shadow: 10px 10px 10px black;
+  }
+  #dr3:hover {
+    box-shadow: 10px 10px 10px black;
+  }
